@@ -35,3 +35,23 @@ body {
     height: auto;
     color: #f1ebe5;
 }
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}  
+.poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    color: white;
+    text-shadow:
+        3px 3px 0 #346900,  
+        3px 3px 0 #346900,
+        3px 3px 0 #346900,
+        3px 3px 0 #346900;
+}
+.border{
+    border: 70px solid white;
+    display: inline-block;
+}
