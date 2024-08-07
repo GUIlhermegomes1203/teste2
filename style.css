@@ -1,0 +1,33 @@
+body {
+    background-color: #95db4f;
+}
+.navbar-custom {
+    background-color: #f1ebe5;
+}
+.div-custom {
+    background-color: #f1ebe5;
+}
+.custom-font {
+    font-family: 'Alfa Slab One', cursive;
+}
+.custom-font-2 {
+    font-family: 'Alfa Slab One', cursive;
+    color: gray;
+}
+.custom-font-3 {
+    font-family: 'Alfa Slab One', cursive;
+    color: white;
+}
+.search-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: dvh;
+    padding-right: 20px;
+    color: gray;
+}
+.bar-icon{
+    display: flex;
+    justify-content: flex-start;
+}
+
